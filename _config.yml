@@ -1,5 +1,5 @@
-title: My ChemE Website
-description: Engineering notes, conversions, LaTeX resources
+title: Becoming An Engineer
+description: Engineering resources
 markdown: kramdown
 kramdown:
   math_engine: mathjax
