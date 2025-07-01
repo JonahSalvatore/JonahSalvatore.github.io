@@ -1,5 +1,8 @@
 title: ChemE
 description: Learn
 markdown: kramdown
+theme: minima
+include:
+ - assets/css/style.css
 kramdown:
   math_engine: mathjax
