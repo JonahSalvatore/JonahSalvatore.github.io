@@ -1,3 +1,2 @@
-# Welcome to my website
-## Latest Posts
+## Posts
 - [Unit Conversion](./unit_conversion.md)
